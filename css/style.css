@@ -56,10 +56,10 @@ p {
 }
 /*SET BACKGROUND FOR EACH BOX*/
 #index_0, #index_1, #index_3, #index_4, #index_5, #index_7, #index_9, #index_10, #index_11, #index_13, #index_14 {
-    background-image: url("graphics_data/emptyboard.png");
+    background-image: url("../graphics_data/emptyboard.png");
 }
 #index_2_DOUBLE_WORD_SCORE, #index_12_DOUBLE_WORD_SCORE, #index_6_DOUBLE_LTR_SCORE, #index_8_DOUBLE_LTR_SCORE {
-    background-image: url("graphics_data/doublewordscore.png"); 
+    background-image: url("../graphics_data/doublewordscore.png"); 
 }
 
 
