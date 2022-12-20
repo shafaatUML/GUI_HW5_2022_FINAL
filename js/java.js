@@ -5,7 +5,6 @@
 
     About this file: Main Javascript file which is responsible for the functionality
     of the scrabble game. Description of each section/function is described. 
-
     * There are various console log statements dispersed throughout the 
     file, there are solely for debugging purposes and do not affect the functionality of the game. *
 */
