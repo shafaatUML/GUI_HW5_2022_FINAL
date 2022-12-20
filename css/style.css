@@ -49,7 +49,7 @@ p {
     margin: auto;
 }
 #rack {
-    background-image: url("graphics_data/tilerack.png");
+    background-image: url("../graphics_data/tilerack.png");
     width: 470px;
     height: 91px;
     margin:auto; 
